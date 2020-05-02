@@ -13,9 +13,16 @@ class App extends Component {
   }
 
   componentDidMount() {
-    fetch("https://jsonplaceholder.typicode.com/users")
+    fetch("https://pokeapi.co/api/v2/pokemon?offset=0&limit=100")
       .then((response) => response.json())
-      .then((users) => this.setState({ monsters: users }));
+      .then((response) => {
+        const results = response.results;
+        for (var i = 0; i < results.length; i++) results[i].id = i + 1;
+
+        this.setState({
+          monsters: results,
+        });
+      });
   }
 
   handleChange = (e) => {
@@ -29,8 +36,9 @@ class App extends Component {
     );
     return (
       <div className="App">
+        <h1>Pokemon List</h1>
         <SearchBox
-          placeholder="search monsters"
+          placeholder="search pokemons"
           handleChange={this.handleChange}
         />
         <CardList monsters={filteredMonsters}></CardList>
