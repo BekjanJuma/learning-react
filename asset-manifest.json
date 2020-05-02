@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/learning-react/static/css/main.ce4fad8a.chunk.css",
-    "main.js": "/learning-react/static/js/main.f5ac301e.chunk.js",
-    "main.js.map": "/learning-react/static/js/main.f5ac301e.chunk.js.map",
-    "runtime-main.js": "/learning-react/static/js/runtime-main.0f10f773.js",
-    "runtime-main.js.map": "/learning-react/static/js/runtime-main.0f10f773.js.map",
-    "static/js/2.7a39425b.chunk.js": "/learning-react/static/js/2.7a39425b.chunk.js",
-    "static/js/2.7a39425b.chunk.js.map": "/learning-react/static/js/2.7a39425b.chunk.js.map",
-    "index.html": "/learning-react/index.html",
-    "precache-manifest.5688e52500c34e97baadc21e4124513d.js": "/learning-react/precache-manifest.5688e52500c34e97baadc21e4124513d.js",
-    "service-worker.js": "/learning-react/service-worker.js",
-    "static/css/main.ce4fad8a.chunk.css.map": "/learning-react/static/css/main.ce4fad8a.chunk.css.map",
-    "static/js/2.7a39425b.chunk.js.LICENSE.txt": "/learning-react/static/js/2.7a39425b.chunk.js.LICENSE.txt"
+    "main.css": "/learning-react/monsters-profile/static/css/main.ce4fad8a.chunk.css",
+    "main.js": "/learning-react/monsters-profile/static/js/main.9391c6a1.chunk.js",
+    "main.js.map": "/learning-react/monsters-profile/static/js/main.9391c6a1.chunk.js.map",
+    "runtime-main.js": "/learning-react/monsters-profile/static/js/runtime-main.0c2e6076.js",
+    "runtime-main.js.map": "/learning-react/monsters-profile/static/js/runtime-main.0c2e6076.js.map",
+    "static/js/2.7a39425b.chunk.js": "/learning-react/monsters-profile/static/js/2.7a39425b.chunk.js",
+    "static/js/2.7a39425b.chunk.js.map": "/learning-react/monsters-profile/static/js/2.7a39425b.chunk.js.map",
+    "index.html": "/learning-react/monsters-profile/index.html",
+    "precache-manifest.402194be66613f931525d41e96e9080f.js": "/learning-react/monsters-profile/precache-manifest.402194be66613f931525d41e96e9080f.js",
+    "service-worker.js": "/learning-react/monsters-profile/service-worker.js",
+    "static/css/main.ce4fad8a.chunk.css.map": "/learning-react/monsters-profile/static/css/main.ce4fad8a.chunk.css.map",
+    "static/js/2.7a39425b.chunk.js.LICENSE.txt": "/learning-react/monsters-profile/static/js/2.7a39425b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0f10f773.js",
+    "static/js/runtime-main.0c2e6076.js",
     "static/js/2.7a39425b.chunk.js",
     "static/css/main.ce4fad8a.chunk.css",
-    "static/js/main.f5ac301e.chunk.js"
+    "static/js/main.9391c6a1.chunk.js"
   ]
 }
